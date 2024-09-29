@@ -1,7 +1,7 @@
 #!/bin/sh
 REPOS="https://github.com/lekseng/jms/raw/master/"
 ns_domain_cloudflare() {
-	DOMAIN="agellls.live"
+	DOMAIN="jmsvpn.xyz"
 	DOMAIN_PATH=$(cat /etc/xray/domain)
 	SUB=$(tr </dev/urandom -dc a-z0-9 | head -c7)
 	SUB_DOMAIN=${SUB}."jmsvpn.xyz"
