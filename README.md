@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=S+C+R+I+P+T+ㅤB+Yㅤ+M+U+H+A+M+M+A+D+  I+S+A" />
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=S+C+R+I+P+T+ㅤB+Yㅤ+MUHA+M+M+A+D+  I+S+A" />
 </p>
 
 ### INSTALL SCRIPT
